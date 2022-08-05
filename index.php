@@ -1,13 +1,13 @@
 <?php
    /*
-      Plugin Name: Punit Test Task
+      Plugin Name: Wordpress Custom Plugin
       Plugin URI: 
-      Description: Test Task Plugin by Punit
+      Description: Wordpress Custom Plugin Plugin by Punit
       Version: 1.0
       Author: Mr. Punit
       Author URI: 
    */
-   //ini_set("display_errors", 1);
+
    class Task 
    {
          public function __construct() 
